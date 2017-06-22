@@ -1,0 +1,2 @@
+Opens an ifstream file. read the file names on the ifstream file. open those files if they exist. then Counts the amount of words, characters, and punctuation on those files then merges the output.
+it sounds more complicated than it is, i added as many comments as i could, hope it helps.
